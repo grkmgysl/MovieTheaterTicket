@@ -1,0 +1,9 @@
+c:\users\ggoys\desktop\visual studio 2015\Projects\proje\proje\bin\Debug\proje.exe
+c:\users\ggoys\desktop\visual studio 2015\Projects\proje\proje\bin\Debug\proje.pdb
+c:\users\ggoys\desktop\visual studio 2015\Projects\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+c:\users\ggoys\desktop\visual studio 2015\Projects\proje\proje\obj\Debug\proje.Form1.resources
+c:\users\ggoys\desktop\visual studio 2015\Projects\proje\proje\obj\Debug\proje.Properties.Resources.resources
+c:\users\ggoys\desktop\visual studio 2015\Projects\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+c:\users\ggoys\desktop\visual studio 2015\Projects\proje\proje\obj\Debug\proje.exe
+c:\users\ggoys\desktop\visual studio 2015\Projects\proje\proje\obj\Debug\proje.pdb
+C:\Users\ggoys\Desktop\visual studio 2015\Projects\proje\proje\obj\Debug\proje.satis_ekrani.resources
